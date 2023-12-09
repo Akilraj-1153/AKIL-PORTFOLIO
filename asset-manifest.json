@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AKIL-PORTFOLIO/static/css/main.9b9b4b76.css",
+    "main.js": "/AKIL-PORTFOLIO/static/js/main.6c2485f1.js",
+    "static/js/787.7b3eeb9b.chunk.js": "/AKIL-PORTFOLIO/static/js/787.7b3eeb9b.chunk.js",
+    "static/media/Homeimg.jpg": "/AKIL-PORTFOLIO/static/media/Homeimg.1623469d2e985f4a49d7.jpg",
+    "static/media/HomeLogo6.png": "/AKIL-PORTFOLIO/static/media/HomeLogo6.c67d27030b371168096d.png",
+    "index.html": "/AKIL-PORTFOLIO/index.html",
+    "main.9b9b4b76.css.map": "/AKIL-PORTFOLIO/static/css/main.9b9b4b76.css.map",
+    "main.6c2485f1.js.map": "/AKIL-PORTFOLIO/static/js/main.6c2485f1.js.map",
+    "787.7b3eeb9b.chunk.js.map": "/AKIL-PORTFOLIO/static/js/787.7b3eeb9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b9b4b76.css",
+    "static/js/main.6c2485f1.js"
+  ]
+}
